@@ -1,0 +1,68 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0;
+    margin: 0;
+    background-image: url("../img/337861.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
+header{
+    margin:0;
+    padding: 20px;
+    font-size: 40px;
+    height : 60px;
+    text-align: center;
+    background-color: black;
+    color: wheat;
+}
+#level{
+    text-align: center;
+    font-size: 90px;
+    font-family: Comic sans ms;
+}
+.t{
+    margin:40px;
+    padding-right: 80px;
+    font-size: 30px;
+    float: right;
+    display: block;
+    border-radius: 20px;
+    border: steelblue 1px solid;
+    padding: 20px;
+}
+#time{
+    display: inline-block;
+}
+.but{
+    
+    margin-top: 40px;
+    display: block;
+    text-align: center;
+}
+button{
+    color:red;
+    margin:40px;
+    padding: 30px;
+    border-radius: 20px;
+    border: 0px;
+    font-size: 30px;
+    text-align: center;
+
+}
+button:hover{
+    color:white;
+    background-color: red;
+    box-shadow:10px 10px 5px grey; 
+}
+input{
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+    font-size: 40px;
+    width: 80px;
+}
+.eq{
+    font-size: 40px;
+    text-align: center;
+    padding-left: 120px;
+    display: inline-block;
+}

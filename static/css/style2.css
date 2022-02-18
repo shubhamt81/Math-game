@@ -1,0 +1,28 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0;
+    margin: 0;
+    background-image: url("../img/337360.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+
+    
+}
+header{
+    padding: 20px;
+    margin: 0;
+    font-size: 40px;
+    height : 80px;
+    background-color: black;
+    color: wheat;
+}
+.lk{
+    text-align: center;
+}
+img{
+    padding-top: 80px;
+    height:150px;
+    width:150px;
+    margin:20px;
+
+}
